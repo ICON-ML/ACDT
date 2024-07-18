@@ -1,6 +1,3 @@
-# Research Paper
-https://aclanthology.org/2023.icon-1.39.pdf
-
 # Citation
 @inproceedings{reshma-etal-2023-mitigating, <br/>
     title = "Mitigating Abusive Comment Detection in {T}amil Text: A Data Augmentation Approach with Transformer Model", <br/>
